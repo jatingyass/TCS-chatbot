@@ -1,12 +1,4 @@
----
 
-title: GPT-2 TCS Chatbot
-emoji: "🤖"
-colorFrom: purple
-colorTo: indigo
-sdk: docker
-pinned: true
-------------
 
 # 🤖 TCS GPT‑2 Chatbot
 
